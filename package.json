@@ -3,6 +3,8 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "npm":"6.11.3",
+  "node":"10.15.3",
   "dependencies": {
     "@material-ui/core": "^4.5.0",
     "import-inspector": "^2.0.0",
