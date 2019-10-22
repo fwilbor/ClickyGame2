@@ -8,15 +8,6 @@ import NavBar from "./components/NavBar";
 import BottomNavMDC from "./components/BottomNavMDC";
 import cards from "./cards.json";
 
-// function App() {
-//   return (
-//    <div>
-//      <h1>Cool Clicky ArteMeso Game Goes Here</h1>
-//    </div>
-//   );
-// }
-
-// export default App;
 
 class App extends Component {
 
