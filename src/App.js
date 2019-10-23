@@ -64,7 +64,7 @@ class App extends Component {
 
   alertWinner = (newState) => {
     if (newState.pickedCards.length === 12) {
-      newState.alertMessage = "CHAMPION!";
+      newState.alertMessage = "ART MESO CHAMPION!";
       newState.pickedCards = [];
       this.setState(this.state = newState)
     }
